@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "AA1LUQfQ5Ds=",
+  "dgSpecHash": "gcnVoLLF1Co=",
   "success": true,
   "projectFilePath": "C:\\Users\\Gidroid\\source\\repos\\Car_Store\\CarShop\\CarShop.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Gidroid\\.nuget\\packages\\bootstrap\\5.3.8\\bootstrap.5.3.8.nupkg.sha512",
     "C:\\Users\\Gidroid\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Gidroid\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Gidroid\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",

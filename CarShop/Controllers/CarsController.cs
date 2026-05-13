@@ -18,6 +18,7 @@ namespace CarShop.Controllers
         // повертає HTML сторінку з автомобілями
         public ViewResult List()
         {
+            ViewBag.Title = "Страница с автомобилями";
             CarsListViewModel obj = new CarsListViewModel();
             obj.allCars = _allCars.Cars;
             obj.currCategory = "Автомобили";
